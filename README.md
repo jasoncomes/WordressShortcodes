@@ -21,7 +21,7 @@ To Update:
 composer update
 ```
 
-If Composer is not install on your machine, run:
+If Composer is not installed on your machine, run:
 ```
 curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
 ```
@@ -251,8 +251,3 @@ No, the plugin is using the WordPress native function [get_file_data()](https://
 
 ####Is there a limit to how much information I can place in the DocBlock?
 Yes, searches for metadata in the first 8kiB of a file. If the file data is not within that first 8kiB, then the author should correct their plugin file and move the data headers to the top.
-
-****
-
-> For other questions, issues, or enhancements, please submit here (https://github.com/HigherEducation/he-wordpress-plugin/issues/new)
-
