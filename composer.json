@@ -1,0 +1,26 @@
+{
+    "name": "wordpressshortcodes",
+    "description": "Shortcdoes/HTML Snippets for Wordpress",
+    "keywords": [ 
+        "WordPress", 
+        "Shortcodes",
+        "HTML Snippets"
+    ],
+     "authors": [
+        {
+            "name": "Jason Comes",
+            "email": "jasonwcomes@gmail.com",
+            "homepage": "https://github.com/jasoncomes/WordpressShortcodes",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "jasonwcomes@gmail.com"
+    },
+    "homepage": "https://github.com/jasoncomes/WordpressShortcodes",
+    "autoload": {
+        "psr-4": {
+            "WordpressShortcodes\\": "src/"
+        }
+    }
+}

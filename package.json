@@ -1,0 +1,8 @@
+{
+  "name": "WordpressShortcodes",
+  "version": "1.0.0",
+  "description": "WordPress Shortcodes/HTML Snippet Utility",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {}
+}
